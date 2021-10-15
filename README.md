@@ -5,3 +5,5 @@
 # Challenges List and Solutions
 
 1.  [Data Types (Difficulty - EASY)](https://www.hackerrank.com/challenges/js10-data-types/problem) -- [My Solution](https://github.com/was-coder/Coding-Challenges/blob/main/easy-js/data-type.js)
+
+2.  [Arithemetic Operators (Difficulty - EASY)](https://www.hackerrank.com/challenges/js10-arithmetic-operators/problem) -- [My Solution](https://github.com/was-coder/Coding-Challenges/blob/main/easy-js/Arithmetic-operators.js)
