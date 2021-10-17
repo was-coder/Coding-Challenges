@@ -8,6 +8,6 @@
 
 2.  [Arithemetic Operators (Difficulty - EASY)](https://www.hackerrank.com/challenges/js10-arithmetic-operators/problem) -- [My Solution](https://github.com/was-coder/Coding-Challenges/blob/main/easy-js/Arithmetic-operators.js)
 
-3.  [factorial (Difficulty - EASY)](https://www.hackerrank.com/challenges/js10-function/problem) -- [My Solution](https://github.com/was-coder/Coding-Challenges/blob/main/easy-js/factorial.js)
+3.  [Function (Difficulty - EASY)](https://www.hackerrank.com/challenges/js10-function/problem) -- [My Solution](https://github.com/was-coder/Coding-Challenges/blob/main/easy-js/factorial.js)
 
 4.  [Let and Const (Difficulty - EASY)](https://www.hackerrank.com/challenges/js10-let-and-const/problem) -- [My Solution](https://github.com/was-coder/Coding-Challenges/blob/main/easy-js/let-and-const.js)
