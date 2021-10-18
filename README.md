@@ -15,3 +15,5 @@
 5.  [If-else (Difficulty - EASY)](https://www.hackerrank.com/challenges/js10-if-else/problem) -- [My Solution](https://github.com/was-coder/Coding-Challenges/blob/main/easy-js/if-else.js)
 
 6.  [Simple Array Sum (Difficulty - EASY)](https://www.hackerrank.com/challenges/simple-array-sum/problem) -- [My Solution](https://github.com/was-coder/Coding-Challenges/blob/main/easy-js/array-sum.js)
+
+7.  [Compare the Triplets (Difficulty - EASY)](https://www.hackerrank.com/challenges/compare-the-triplets/problem) -- [My Solution](https://github.com/was-coder/Coding-Challenges/blob/main/easy-js/compare-triplet.js)
