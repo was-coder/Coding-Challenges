@@ -1,4 +1,6 @@
-# Highest Average Score
+# Page 1
+
+## Highest Average Score
 
 > John, Mike and Mary play basketball in different teams. In the latest three games, John's team scored 89, 120 and 103 points, Mike's team scored 116, 94 and 123 points while Mary's team scored 97, 134 and 105 points.
 

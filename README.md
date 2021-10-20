@@ -1,6 +1,6 @@
 # Coding Challenges
 
-> These project contains some of my coding challenges that was solved using HackerRank and from Javascript Complete Course(Build real project) tutorial with some little changes to the outputs. These comprises of easy and difficult challenges.
+> These project contains some of my coding challenges that was solved using HackerRank and from [Javascript Complete Course Build Real Projects tutorial part 1-Finale by Technify4Free](https://www.youtube.com/channel/UCa9EE2XrQxzVpD_t7pmp9mA/videos) with some little changes to the outputs. These comprises of easy and difficult challenges.
 
 # Challenges List and Solutions
 
