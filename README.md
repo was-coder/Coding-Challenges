@@ -20,4 +20,6 @@
 
 8.  [Conditional Switch (Difficulty - EASY)](https://www.hackerrank.com/challenges/js10-switch/problem) -- [My Solution](https://github.com/was-coder/Coding-Challenges/blob/main/easy-js/switch.js)
 
-9.  The problem for the highest average challenge can be found at page 1 of the detail.md file -- [My Solution](https://github.com/was-coder/Coding-Challenges/blob/main/easy-js/highest-average.js)
+9.  The problem for the Highest Average Score challenge can be found at page 1 of the detail.md file (Difficulty - EASY) -- [My Solution](https://github.com/was-coder/Coding-Challenges/blob/main/easy-js/highest-average.js)
+
+10. The problem for Calculating the Body Mass Index (BMI) challenge can be found at page 2 of the detail.md file (Difficulty - EASY) -- [My Solution](https://github.com/was-coder/Coding-Challenges/blob/main/easy-js/calc-bmi.js)
