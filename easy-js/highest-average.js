@@ -1,8 +1,8 @@
 let johnAverage, mikeAverage, maryAverage;
 
-johnAverage = (9 + 2 + 9) / 3;
-mikeAverage = (9 + 2 + 3) / 3;
-maryAverage = (9 + 2 + 1) / 3;
+johnAverage = (89 + 120 + 103) / 3;
+mikeAverage = (116 + 94 + 123) / 3;
+maryAverage = (97 + 134 + 105) / 3;
 console.log(johnAverage, mikeAverage, maryAverage);
 
 johnAverage > mikeAverage && maryAverage

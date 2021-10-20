@@ -1,6 +1,6 @@
 # Coding Challenges
 
-> These project contains some of my coding challenges that was solved using HackerRank and from some tutorials challenges. These comprises of easy and difficult challenges.
+> These project contains some of my coding challenges that was solved using HackerRank and from Javascript Complete Course(Build real project) tutorial with some little changes to the outputs. These comprises of easy and difficult challenges.
 
 # Challenges List and Solutions
 
@@ -19,3 +19,5 @@
 7.  [Compare the Triplets (Difficulty - EASY)](https://www.hackerrank.com/challenges/compare-the-triplets/problem) -- [My Solution](https://github.com/was-coder/Coding-Challenges/blob/main/easy-js/compare-triplet.js)
 
 8.  [Conditional Switch (Difficulty - EASY)](https://www.hackerrank.com/challenges/js10-switch/problem) -- [My Solution](https://github.com/was-coder/Coding-Challenges/blob/main/easy-js/switch.js)
+
+9.  The problem for the highest average challenge can be found at page 1 of the detail.md file -- [My Solution](https://github.com/was-coder/Coding-Challenges/blob/main/easy-js/highest-average.js)
